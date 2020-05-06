@@ -1,6 +1,6 @@
 var randomNumber = Math.floor(Math.random() * 6 + 1);
 var randomNumber2 = Math.floor(Math.random() * 6 + 1);
-
+var randomNumber3 = Math.floor(Math.random() * 6 + 1);
 
 function RandomImage(number){
     if(number === 1){
