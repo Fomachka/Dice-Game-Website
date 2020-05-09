@@ -1,2 +1,2 @@
 # Dice-Game-Website
-Try 
+Try it out!
